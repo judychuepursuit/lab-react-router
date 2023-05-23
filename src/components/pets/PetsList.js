@@ -1,7 +1,7 @@
 import PetsListNav from "./PetsListNav";
 import Pet from "./Pet";
 import "./PetsList.css";
-// import {Link} from "react-router-dom";
+import { userParams } from "react-router-dom";
 
 export const PetsList = ({ cats, dogs, path }) => {
   return (

@@ -36,6 +36,7 @@ function App() {
 
   return (
     <div className="wrapper">
+      {/* <Router> */}
       <Nav />
       <Routes>
         <Route path="/" element={<Home employees={employees} owners={owners} pets={pets} />}/>
@@ -45,6 +46,7 @@ function App() {
         <Route path="/pets/dogs" element={<PetsList cats={cats} dogs={dogs} path={'dogs'}/>} />
       </Routes>
       <Footer />
+      {/* </Router> */}
     </div>
   );
 }
