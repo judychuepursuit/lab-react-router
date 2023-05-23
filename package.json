@@ -1,5 +1,5 @@
 {
-
+  "homepage": "http://judychuepursuit.github.io/lab-react-router",
   "name": "update-router-lab",
   "version": "0.1.0",
   "private": true,
@@ -14,9 +14,11 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
-    "test": "./node_modules/.bin/cypress open",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
