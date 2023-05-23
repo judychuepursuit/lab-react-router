@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lab-react-router/static/css/main.7c491143.css",
-    "main.js": "/lab-react-router/static/js/main.0417d3d9.js",
+    "main.js": "/lab-react-router/static/js/main.1ce330a9.js",
     "static/js/787.e64b2706.chunk.js": "/lab-react-router/static/js/787.e64b2706.chunk.js",
     "static/media/andrew-s-unsplash.jpg": "/lab-react-router/static/media/andrew-s-unsplash.be213ed907134c3d5f1f.jpg",
     "index.html": "/lab-react-router/index.html",
     "main.7c491143.css.map": "/lab-react-router/static/css/main.7c491143.css.map",
-    "main.0417d3d9.js.map": "/lab-react-router/static/js/main.0417d3d9.js.map",
+    "main.1ce330a9.js.map": "/lab-react-router/static/js/main.1ce330a9.js.map",
     "787.e64b2706.chunk.js.map": "/lab-react-router/static/js/787.e64b2706.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c491143.css",
-    "static/js/main.0417d3d9.js"
+    "static/js/main.1ce330a9.js"
   ]
 }
